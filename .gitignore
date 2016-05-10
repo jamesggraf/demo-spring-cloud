@@ -1,0 +1,26 @@
+*.iml
+.idea/*
+!codeStyleSettings.xml
+target/
+/target/
+out/
+*.iws
+*.ipr
+*.log
+*.class
+.classpath
+.project
+atlassian-ide-plugin.xml
+.springBeans
+rebel.xml
+maven-eclipse.xml
+#ignore any emacs temp files
+.settings/
+.mymetadata/
+application-slalomlocal.properties
+# Package Files #
+*.jar
+*.war
+*.ear
+application/rest/src/main/webapp/META-INF/MANIFEST.MF
+*.DS_Store
